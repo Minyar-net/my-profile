@@ -1,0 +1,30 @@
+/* Colors and fonts */
+
+body{
+
+	background: rgb(255, 255, 255);
+	color: rgb(32, 32, 32);
+	font-family: Lora;
+	font-size: 16px;
+	font-weight: lighter;
+}
+h1{
+	color: rgb(153, 0, 76);
+	font-family: courier;
+	font-size: 40px;
+}
+h2{
+	color: rgb(0, 102, 102);
+	font-family:Roboto;
+	font-size: 25px;
+
+}
+a{
+	text-decoration: none;
+	color: rgb(0, 76, 153);
+	font-weight: bold;
+}
+a:hover{
+	color: rgb(0, 153, 0);
+}
+
